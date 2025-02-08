@@ -13,12 +13,9 @@ import {
   nodejs,
   mongodb,
   git,
-  figma,
-  docker,
-  meta,
+
   PhysicsWallah,
-  tesla,
-  shopify,
+
   carrent,
   jobit,
   tripguide,

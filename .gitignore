@@ -1,9 +1,1 @@
-# Ignore environment variables and sensitive files
-.env
-node_modules/
-dist/
-build/
-.DS_Store
-.vscode/
-.idea/
-*.log
+node_modules

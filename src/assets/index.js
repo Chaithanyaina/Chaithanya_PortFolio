@@ -25,7 +25,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import jobportal from "./jobportal.png";
-import ML from "./ml.ppg";
+import ML from "./ml.png";
 import task from "./task.png"
 
 export {

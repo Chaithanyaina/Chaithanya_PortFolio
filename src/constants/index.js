@@ -21,7 +21,10 @@ import {
   tripguide,
   threejs,
   APSSDC,
-  postgreSQL
+  postgreSQL,
+  ML,
+  jobportal,
+  task
 
 } from "../assets";
 
@@ -184,7 +187,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: jobportal,
     source_code_link: "https://github.com/Chaithanyaina/JOB-PORTAL",
   },
   {
@@ -205,7 +208,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: task,
     source_code_link: "https://github.com/Chaithanyaina/ToDoList",
   },
   {
@@ -226,7 +229,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: ML,
     source_code_link: "",
   },
 ];

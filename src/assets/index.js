@@ -24,6 +24,9 @@ import postgreSQL from "./tech/postgreSQL.png"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import jobportal from "./jobportal.png";
+import ML from "./ml.jpg";
+import task from "./task.png"
 
 export {
   logo,
@@ -50,5 +53,8 @@ export {
   jobit,
   tripguide,
   APSSDC,
-  postgreSQL
+  postgreSQL,
+  jobportal,
+  task,
+  ML
 };

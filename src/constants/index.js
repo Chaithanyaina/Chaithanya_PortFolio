@@ -70,7 +70,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Engineer",
+    title: "React Engineer",
     icon: mobile,
   },
   {
@@ -97,10 +97,6 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
   },
@@ -123,10 +119,6 @@ const technologies = [
   {
     name: "PostgreSQL",
     icon: postgreSQL,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
   },
   {
     name: "git",

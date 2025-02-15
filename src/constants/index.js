@@ -176,7 +176,7 @@ const projects = [
       },
     ],
     image: jobportal,
-    source_code_link: "https://github.com/Chaithanyaina/JOB-PORTAL",
+    source_code_link: "https://github.com/Chaithanyaina/JobPortal",
   },
   {
     name: "To Do List",
@@ -197,7 +197,7 @@ const projects = [
       },
     ],
     image: task,
-    source_code_link: "https://github.com/Chaithanyaina/ToDoList",
+    source_code_link: "https://github.com/Chaithanyaina/To-Do-List",
   },
   {
     name: "Object Tracking-Federated Learning",
@@ -218,7 +218,7 @@ const projects = [
       },
     ],
     image: ML,
-    source_code_link: "",
+    source_code_link: "https://github.com/Chaithanyaina/Chaithanya_PortFolio",
   },
 ];
 

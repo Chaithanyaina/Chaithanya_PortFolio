@@ -39,7 +39,8 @@ const App = () => (
       <Hero />
     </div>
 
-    <div className="space-y-10 px-4 sm:px-10 py-10 text-center">
+    <div className="flex flex-wrap justify-center gap-4 px-4 sm:px-10 py-10 text-center">
+
       {[
         { component: <About />, color: "blue" },
         { component: <Experience />, color: "pink" },

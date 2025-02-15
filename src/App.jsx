@@ -1,5 +1,5 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
+import { About, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
 
 import { motion } from "framer-motion";
 
@@ -57,7 +57,6 @@ const App = () => (
     </div>
 
     <div className="relative z-0">
-      <Contact />
       <StarsCanvas />
     </div>
   </div>

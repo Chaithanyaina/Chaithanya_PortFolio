@@ -63,7 +63,7 @@ const Navbar = () => {
           {/* ✅ Resume Button */}
           <li>
             <a
-              href="https://drive.google.com/file/d/1DAgINzwbzSmGAL2DLcAYmyhy5Q6_Trhq/view?usp=sharing"
+              href="https://drive.google.com/file/d/1CztjnK_MsyXQLXeLPyDXwILoIIGJ6JVe/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-[#915EFF] text-white px-4 py-2 rounded-lg hover:bg-[#7A4FCC] transition-all"
@@ -105,7 +105,7 @@ const Navbar = () => {
               {/* ✅ Resume Button in Mobile Navbar */}
               <li>
                 <a
-                  href="https://drive.google.com/file/d/1DAgINzwbzSmGAL2DLcAYmyhy5Q6_Trhq/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1CztjnK_MsyXQLXeLPyDXwILoIIGJ6JVe/view?usp=drive_link"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-[#915EFF] text-white px-4 py-2 rounded-lg hover:bg-[#7A4FCC] transition-all"
